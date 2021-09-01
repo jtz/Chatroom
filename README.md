@@ -1,8 +1,5 @@
-# Class Project: JTChatroom
-
-Student：Jingtian Zou
-
-Class: CS665 Software Design and Patterns
+# Chatroom
+-- CS665 Software Design and Patterns Final Project
 
 Submitted: 04/28/2021
 
