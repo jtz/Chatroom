@@ -3,7 +3,9 @@
 
 Submitted: 04/28/2021
 
-JTChatroom is a simulated chatroom platform that used four design patterns: Factory Method, Singleton, Builder, and Observer Patterns.
+## Summary
+
+Chatroom Application is a simulated chatroom platform that used four design patterns: Factory Method, Singleton, Builder, and Observer Patterns.
 
 &nbsp;
 
