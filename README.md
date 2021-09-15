@@ -1,8 +1,6 @@
 # Chatroom
 -- CS665 Software Design and Patterns Term Project
 
-Submitted: 04/28/2021
-
 ## Summary
 
 Chatroom is a Java application that simulates chatroom platform by using four design patterns: Factory Method, Singleton, Builder, and Observer Patterns.
